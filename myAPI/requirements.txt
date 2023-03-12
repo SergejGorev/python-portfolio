@@ -1,0 +1,12 @@
+fastapi
+pydantic
+uvicorn
+sqlalchemy
+binance-connector
+aiofiles
+aiohttp
+python-dateutil
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-decouple
